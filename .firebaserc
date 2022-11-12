@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "hameed-portfolio-381",
+    "hameed-profile": "hameed-portfolio-381",
+    "portfolio": "my-proj-fdd0e",
+    "hameed": "portfolio-5f8c3"
+  },
+  "targets": {},
+  "etags": {}
+}
